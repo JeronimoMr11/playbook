@@ -1,0 +1,15 @@
+{
+  "name": "practica_01",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeronimo_11",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
